@@ -16,7 +16,6 @@ char webpage[] PROGMEM = R"====(
 <body>
 <p> LED State: <span id= "led-state">_</span></p>
 <button onclick="myFunction()"> TOGGLE </button>
-</form>
 </body>
 <script>
  function myFunction(){
