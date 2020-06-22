@@ -86,5 +86,3 @@ void toggleLed(void)
     count++;
     digitalWrite(pinLed, !digitalRead(pinLed));
 }
-Led));
-}
